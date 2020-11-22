@@ -21,7 +21,7 @@ nnoremap <C-Up> :b
 map <F12> :syntax sync fromstart <CR>
 " NerdTree
 map <C-n> :NERDTreeToggle<CR>
-
+map <C-b> :TagbarToggle<CR>
 
 " terminal settings
 :tnoremap <Esc> <C-\><C-n>  " ecape mapping

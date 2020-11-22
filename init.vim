@@ -9,3 +9,4 @@ source ~/.config/nvim/web.vim
 source ~/.config/nvim/release.vim
 
 command BuffOnly :%bd|e#|bd#
+

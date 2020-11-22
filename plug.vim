@@ -16,4 +16,5 @@ Plug 'mattn/calendar-vim'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'mattn/emmet-vim'
 Plug 'neoclide/coc.nvim'
+Plug 'preservim/tagbar'
 call plug#end()
